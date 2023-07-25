@@ -7,3 +7,4 @@ Environment Repository. Dependencies:
 - openpyxl==3.0.10
 - ipywidgets==7.7.2
 - voila==0.3.7
+- nbgitpuller==1.1.1
