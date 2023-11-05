@@ -8,6 +8,6 @@ Environment Repository. Dependencies:
 - ipywidgets==7.7.2
 - voila==0.3.7
 - nbgitpuller==1.1.1
-- umap==0.5.3
-- sklearn==1.2.2
-- scipy==1.9.1
+- umap
+- sklearn
+- scipy
