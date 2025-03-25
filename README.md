@@ -10,4 +10,4 @@ Environment Repository. Dependencies:
 - nbgitpuller==1.1.1
 - scikit-learn==1.2.2
 - scipy==1.9.1
-- lxml_html_clean
+- lxml-html-clean
